@@ -1,1 +1,4 @@
 repomix-output.txt
+.clj-kondo/
+.cpcache/
+.lsp/
